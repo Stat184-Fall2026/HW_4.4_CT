@@ -11,7 +11,7 @@ HW 4.3 brings together work from earlier in the semester into one reproducible r
 5. Reflection: what I learned in the course.
 
 
-### Interesting Insight (Optional)
+### Interesting Insight
 ![Scatterplot of 18 Big Ten women's basketball team logos showing three-point attempts per game against points per game in the 2025-26 season, with dashed lines at the Big Ten averages](images/btaa-3pa-vs-ppg.png)
 Shooting more three-pointers did not mean scoring more in the Big Ten this season. UCLA scored the most points per game (about 83) while taking fewer threes than the conference average, 
 and USC and Wisconsin took the most threes (over 24 per game) but scored below average. 
