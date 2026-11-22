@@ -12,8 +12,7 @@ HW 4.3 brings together work from earlier in the semester into one reproducible r
 
 
 ### Interesting Insight (Optional)
-
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+![Scatterplot of 18 Big Ten women's basketball team logos showing three-point attempts per game against points per game in the 2025-26 season, with dashed lines at the Big Ten averages](images/btaa-3pa-vs-ppg.png)
 
 ## Data Sources and Acknowledgements
 1. Diamonds: the diamonds data set from the {ggplot2} R package.
