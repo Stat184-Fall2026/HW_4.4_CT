@@ -12,8 +12,11 @@ HW 4.3 brings together work from earlier in the semester into one reproducible r
 
 
 ### Interesting Insight (Optional)
-
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+![Scatterplot of 18 Big Ten women's basketball team logos showing three-point attempts per game against points per game in the 2025-26 season, with dashed lines at the Big Ten averages](images/btaa-3pa-vs-ppg.png)
+Shooting more three-pointers did not mean scoring more in the Big Ten this season. UCLA scored the most points per game (about 83) while taking fewer threes than the conference average, 
+and USC and Wisconsin took the most threes (over 24 per game) but scored below average. 
+Ohio State and Nebraska were the exceptions that shot a lot of threes and still scored well, 
+which suggests that making threes matters more than just taking them.
 
 ## Data Sources and Acknowledgements
 1. Diamonds: the diamonds data set from the {ggplot2} R package.
@@ -31,15 +34,17 @@ This is optional but highly recommended. You'll include one interesting insight 
 
 
 ## Repo Structure
-README.md - This file
-plan.md - Plan for building the repo and completing HW 4.3
-Homework4.3.qmd - Quarto source for the HW 4.3 report
-Homework4.3.pdf - Rendered report, as submitted for HW 4.3
-BigTenDataHW4.3/ - Women's basketball team box score data read by the QMD
-calcium.csv - Data for the Planning and Prompting section
-images/ - Plot images used in the report and this README
-HW4.4_Template.Rproj - R project file; open this to work in RStudio
-optional_files/ - Extra files from the course template
+- `README.md` - This file
+- `plan.md` - Plan for building the repo and completing HW 4.3
+- `Homework4.3/` - HW 4.3 report folder:
+  - `Homework4.3.qmd` - Quarto source for the report
+  - `Homework4.3.pdf` - Rendered report, as submitted
+  - `BigTenDataHW4.3/team_box.csv` - Women's basketball data
+  - `calcium (1).csv` - Data for the Planning and Prompting section
+  - `calcium_comparison.png`, `chatgptPlot.png` - Images used in the report
+- `images/` - Plot used in this README
+- `HW4.4_Template.Rproj` - R project file; open this to work in RStudio
+- `optional_files/` - Extra files from the course template
 
 ## Authors
 
