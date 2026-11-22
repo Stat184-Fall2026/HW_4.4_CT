@@ -13,6 +13,10 @@ HW 4.3 brings together work from earlier in the semester into one reproducible r
 
 ### Interesting Insight (Optional)
 ![Scatterplot of 18 Big Ten women's basketball team logos showing three-point attempts per game against points per game in the 2025-26 season, with dashed lines at the Big Ten averages](images/btaa-3pa-vs-ppg.png)
+Shooting more three-pointers did not mean scoring more in the Big Ten this season. UCLA scored the most points per game (about 83) while taking fewer threes than the conference average, 
+and USC and Wisconsin took the most threes (over 24 per game) but scored below average. 
+Ohio State and Nebraska were the exceptions that shot a lot of threes and still scored well, 
+which suggests that making threes matters more than just taking them.
 
 ## Data Sources and Acknowledgements
 1. Diamonds: the diamonds data set from the {ggplot2} R package.
