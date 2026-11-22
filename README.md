@@ -34,15 +34,17 @@ which suggests that making threes matters more than just taking them.
 
 
 ## Repo Structure
-README.md - This file
-plan.md - Plan for building the repo and completing HW 4.3
-Homework4.3.qmd - Quarto source for the HW 4.3 report
-Homework4.3.pdf - Rendered report, as submitted for HW 4.3
-BigTenDataHW4.3/ - Women's basketball team box score data read by the QMD
-calcium.csv - Data for the Planning and Prompting section
-images/ - Plot images used in the report and this README
-HW4.4_Template.Rproj - R project file; open this to work in RStudio
-optional_files/ - Extra files from the course template
+- `README.md` - This file
+- `plan.md` - Plan for building the repo and completing HW 4.3
+- `Homework4.3/` - HW 4.3 report folder:
+  - `Homework4.3.qmd` - Quarto source for the report
+  - `Homework4.3.pdf` - Rendered report, as submitted
+  - `BigTenDataHW4.3/team_box.csv` - Women's basketball data
+  - `calcium (1).csv` - Data for the Planning and Prompting section
+  - `calcium_comparison.png`, `chatgptPlot.png` - Images used in the report
+- `images/` - Plot used in this README
+- `HW4.4_Template.Rproj` - R project file; open this to work in RStudio
+- `optional_files/` - Extra files from the course template
 
 ## Authors
 
